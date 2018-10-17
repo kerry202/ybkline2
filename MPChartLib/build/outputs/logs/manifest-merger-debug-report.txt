@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:11-49
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+		ADDED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+	android:versionCode
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+		ADDED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml:2:1-13:12
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+		ADDED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+		ADDED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
+		INJECTED from D:\Kline\ybkline2\MPChartLib\AndroidManifest.xml
